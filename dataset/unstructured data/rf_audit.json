@@ -1,0 +1,802 @@
+[
+  {
+    "audit_id": "RF_1",
+    "tower_id": "TWR_1093",
+    "audit_date": "2026-02-05",
+    "rf_exposure": 1.09,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_2",
+    "tower_id": "TWR_1046",
+    "audit_date": "2026-02-04",
+    "rf_exposure": 2.38,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_3",
+    "tower_id": "TWR_1097",
+    "audit_date": "2026-02-03",
+    "rf_exposure": 0.87,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_4",
+    "tower_id": "TWR_1095",
+    "audit_date": "2026-02-02",
+    "rf_exposure": 1.94,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_5",
+    "tower_id": "TWR_1001",
+    "audit_date": "2026-02-01",
+    "rf_exposure": 1.49,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_6",
+    "tower_id": "TWR_1099",
+    "audit_date": "2026-01-31",
+    "rf_exposure": 1.13,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_7",
+    "tower_id": "TWR_1064",
+    "audit_date": "2026-01-30",
+    "rf_exposure": 0.96,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_8",
+    "tower_id": "TWR_1008",
+    "audit_date": "2026-01-29",
+    "rf_exposure": 1.1,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_9",
+    "tower_id": "TWR_1074",
+    "audit_date": "2026-01-28",
+    "rf_exposure": 1.3,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_10",
+    "tower_id": "TWR_1060",
+    "audit_date": "2026-01-27",
+    "rf_exposure": 1.75,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_11",
+    "tower_id": "TWR_1091",
+    "audit_date": "2026-01-26",
+    "rf_exposure": 1.91,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_12",
+    "tower_id": "TWR_1074",
+    "audit_date": "2026-01-25",
+    "rf_exposure": 2.0,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_13",
+    "tower_id": "TWR_1049",
+    "audit_date": "2026-01-24",
+    "rf_exposure": 1.22,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_14",
+    "tower_id": "TWR_1023",
+    "audit_date": "2026-01-23",
+    "rf_exposure": 1.0,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_15",
+    "tower_id": "TWR_1016",
+    "audit_date": "2026-01-22",
+    "rf_exposure": 0.78,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_16",
+    "tower_id": "TWR_1052",
+    "audit_date": "2026-01-21",
+    "rf_exposure": 1.55,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_17",
+    "tower_id": "TWR_1062",
+    "audit_date": "2026-01-20",
+    "rf_exposure": 0.53,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_18",
+    "tower_id": "TWR_1078",
+    "audit_date": "2026-01-19",
+    "rf_exposure": 1.65,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_19",
+    "tower_id": "TWR_1056",
+    "audit_date": "2026-01-18",
+    "rf_exposure": 0.82,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_20",
+    "tower_id": "TWR_1022",
+    "audit_date": "2026-01-17",
+    "rf_exposure": 1.71,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_21",
+    "tower_id": "TWR_1037",
+    "audit_date": "2026-01-16",
+    "rf_exposure": 0.5,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_22",
+    "tower_id": "TWR_1100",
+    "audit_date": "2026-01-15",
+    "rf_exposure": 2.23,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_23",
+    "tower_id": "TWR_1056",
+    "audit_date": "2026-01-14",
+    "rf_exposure": 0.64,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_24",
+    "tower_id": "TWR_1059",
+    "audit_date": "2026-01-13",
+    "rf_exposure": 0.68,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_25",
+    "tower_id": "TWR_1026",
+    "audit_date": "2026-01-12",
+    "rf_exposure": 0.78,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_26",
+    "tower_id": "TWR_1015",
+    "audit_date": "2026-01-11",
+    "rf_exposure": 1.36,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_27",
+    "tower_id": "TWR_1004",
+    "audit_date": "2026-01-10",
+    "rf_exposure": 0.81,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_28",
+    "tower_id": "TWR_1046",
+    "audit_date": "2026-01-09",
+    "rf_exposure": 0.55,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_29",
+    "tower_id": "TWR_1094",
+    "audit_date": "2026-01-08",
+    "rf_exposure": 0.57,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_30",
+    "tower_id": "TWR_1039",
+    "audit_date": "2026-01-07",
+    "rf_exposure": 1.22,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_31",
+    "tower_id": "TWR_1032",
+    "audit_date": "2026-01-06",
+    "rf_exposure": 1.86,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_32",
+    "tower_id": "TWR_1099",
+    "audit_date": "2026-01-05",
+    "rf_exposure": 0.82,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_33",
+    "tower_id": "TWR_1024",
+    "audit_date": "2026-01-04",
+    "rf_exposure": 1.78,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_34",
+    "tower_id": "TWR_1094",
+    "audit_date": "2026-01-03",
+    "rf_exposure": 2.05,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_35",
+    "tower_id": "TWR_1053",
+    "audit_date": "2026-01-02",
+    "rf_exposure": 1.59,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_36",
+    "tower_id": "TWR_1066",
+    "audit_date": "2026-01-01",
+    "rf_exposure": 1.86,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_37",
+    "tower_id": "TWR_1006",
+    "audit_date": "2025-12-31",
+    "rf_exposure": 2.25,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_38",
+    "tower_id": "TWR_1032",
+    "audit_date": "2025-12-30",
+    "rf_exposure": 2.03,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_39",
+    "tower_id": "TWR_1044",
+    "audit_date": "2025-12-29",
+    "rf_exposure": 1.34,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_40",
+    "tower_id": "TWR_1069",
+    "audit_date": "2025-12-28",
+    "rf_exposure": 0.98,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_41",
+    "tower_id": "TWR_1071",
+    "audit_date": "2025-12-27",
+    "rf_exposure": 1.89,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_42",
+    "tower_id": "TWR_1019",
+    "audit_date": "2025-12-26",
+    "rf_exposure": 1.63,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_43",
+    "tower_id": "TWR_1093",
+    "audit_date": "2025-12-25",
+    "rf_exposure": 1.76,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_44",
+    "tower_id": "TWR_1044",
+    "audit_date": "2025-12-24",
+    "rf_exposure": 0.82,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_45",
+    "tower_id": "TWR_1057",
+    "audit_date": "2025-12-23",
+    "rf_exposure": 2.34,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_46",
+    "tower_id": "TWR_1091",
+    "audit_date": "2025-12-22",
+    "rf_exposure": 0.62,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_47",
+    "tower_id": "TWR_1069",
+    "audit_date": "2025-12-21",
+    "rf_exposure": 0.7,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_48",
+    "tower_id": "TWR_1010",
+    "audit_date": "2025-12-20",
+    "rf_exposure": 1.39,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_49",
+    "tower_id": "TWR_1019",
+    "audit_date": "2025-12-19",
+    "rf_exposure": 1.0,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_50",
+    "tower_id": "TWR_1094",
+    "audit_date": "2025-12-18",
+    "rf_exposure": 1.09,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_51",
+    "tower_id": "TWR_1097",
+    "audit_date": "2025-12-17",
+    "rf_exposure": 0.95,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_52",
+    "tower_id": "TWR_1047",
+    "audit_date": "2025-12-16",
+    "rf_exposure": 2.12,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_53",
+    "tower_id": "TWR_1032",
+    "audit_date": "2025-12-15",
+    "rf_exposure": 1.88,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_54",
+    "tower_id": "TWR_1078",
+    "audit_date": "2025-12-14",
+    "rf_exposure": 2.36,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_55",
+    "tower_id": "TWR_1000",
+    "audit_date": "2025-12-13",
+    "rf_exposure": 0.87,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_56",
+    "tower_id": "TWR_1055",
+    "audit_date": "2025-12-12",
+    "rf_exposure": 2.49,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_57",
+    "tower_id": "TWR_1099",
+    "audit_date": "2025-12-11",
+    "rf_exposure": 1.79,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_58",
+    "tower_id": "TWR_1054",
+    "audit_date": "2025-12-10",
+    "rf_exposure": 1.27,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_59",
+    "tower_id": "TWR_1033",
+    "audit_date": "2025-12-09",
+    "rf_exposure": 1.98,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_60",
+    "tower_id": "TWR_1057",
+    "audit_date": "2025-12-08",
+    "rf_exposure": 1.55,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_61",
+    "tower_id": "TWR_1045",
+    "audit_date": "2025-12-07",
+    "rf_exposure": 2.09,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_62",
+    "tower_id": "TWR_1080",
+    "audit_date": "2025-12-06",
+    "rf_exposure": 0.72,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_63",
+    "tower_id": "TWR_1006",
+    "audit_date": "2025-12-05",
+    "rf_exposure": 1.08,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_64",
+    "tower_id": "TWR_1002",
+    "audit_date": "2025-12-04",
+    "rf_exposure": 0.97,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_65",
+    "tower_id": "TWR_1080",
+    "audit_date": "2025-12-03",
+    "rf_exposure": 2.02,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_66",
+    "tower_id": "TWR_1086",
+    "audit_date": "2025-12-02",
+    "rf_exposure": 0.79,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_67",
+    "tower_id": "TWR_1010",
+    "audit_date": "2025-12-01",
+    "rf_exposure": 2.17,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_68",
+    "tower_id": "TWR_1051",
+    "audit_date": "2025-11-30",
+    "rf_exposure": 1.02,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_69",
+    "tower_id": "TWR_1099",
+    "audit_date": "2025-11-29",
+    "rf_exposure": 2.0,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_70",
+    "tower_id": "TWR_1093",
+    "audit_date": "2025-11-28",
+    "rf_exposure": 0.86,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_71",
+    "tower_id": "TWR_1044",
+    "audit_date": "2025-11-27",
+    "rf_exposure": 0.68,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_72",
+    "tower_id": "TWR_1038",
+    "audit_date": "2025-11-26",
+    "rf_exposure": 2.01,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_73",
+    "tower_id": "TWR_1088",
+    "audit_date": "2025-11-25",
+    "rf_exposure": 0.87,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_74",
+    "tower_id": "TWR_1030",
+    "audit_date": "2025-11-24",
+    "rf_exposure": 1.81,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_75",
+    "tower_id": "TWR_1003",
+    "audit_date": "2025-11-23",
+    "rf_exposure": 1.6,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_76",
+    "tower_id": "TWR_1045",
+    "audit_date": "2025-11-22",
+    "rf_exposure": 1.55,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_77",
+    "tower_id": "TWR_1063",
+    "audit_date": "2025-11-21",
+    "rf_exposure": 1.76,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_78",
+    "tower_id": "TWR_1046",
+    "audit_date": "2025-11-20",
+    "rf_exposure": 2.1,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_79",
+    "tower_id": "TWR_1074",
+    "audit_date": "2025-11-19",
+    "rf_exposure": 1.25,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_80",
+    "tower_id": "TWR_1062",
+    "audit_date": "2025-11-18",
+    "rf_exposure": 1.52,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_81",
+    "tower_id": "TWR_1083",
+    "audit_date": "2025-11-17",
+    "rf_exposure": 1.6,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_82",
+    "tower_id": "TWR_1070",
+    "audit_date": "2025-11-16",
+    "rf_exposure": 1.26,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_83",
+    "tower_id": "TWR_1089",
+    "audit_date": "2025-11-15",
+    "rf_exposure": 1.61,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_84",
+    "tower_id": "TWR_1089",
+    "audit_date": "2025-11-14",
+    "rf_exposure": 2.21,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_85",
+    "tower_id": "TWR_1070",
+    "audit_date": "2025-11-13",
+    "rf_exposure": 1.45,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_86",
+    "tower_id": "TWR_1094",
+    "audit_date": "2025-11-12",
+    "rf_exposure": 0.54,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_87",
+    "tower_id": "TWR_1090",
+    "audit_date": "2025-11-11",
+    "rf_exposure": 2.4,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_88",
+    "tower_id": "TWR_1036",
+    "audit_date": "2025-11-10",
+    "rf_exposure": 2.01,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_89",
+    "tower_id": "TWR_1006",
+    "audit_date": "2025-11-09",
+    "rf_exposure": 0.8,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_90",
+    "tower_id": "TWR_1081",
+    "audit_date": "2025-11-08",
+    "rf_exposure": 2.13,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_91",
+    "tower_id": "TWR_1078",
+    "audit_date": "2025-11-07",
+    "rf_exposure": 1.51,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_92",
+    "tower_id": "TWR_1084",
+    "audit_date": "2025-11-06",
+    "rf_exposure": 2.16,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_93",
+    "tower_id": "TWR_1086",
+    "audit_date": "2025-11-05",
+    "rf_exposure": 2.27,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_94",
+    "tower_id": "TWR_1075",
+    "audit_date": "2025-11-04",
+    "rf_exposure": 1.65,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_95",
+    "tower_id": "TWR_1077",
+    "audit_date": "2025-11-03",
+    "rf_exposure": 2.46,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_96",
+    "tower_id": "TWR_1008",
+    "audit_date": "2025-11-02",
+    "rf_exposure": 2.38,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_97",
+    "tower_id": "TWR_1071",
+    "audit_date": "2025-11-01",
+    "rf_exposure": 0.89,
+    "compliance_status": "Marginal",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_98",
+    "tower_id": "TWR_1081",
+    "audit_date": "2025-10-31",
+    "rf_exposure": 2.04,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_99",
+    "tower_id": "TWR_1034",
+    "audit_date": "2025-10-30",
+    "rf_exposure": 2.38,
+    "compliance_status": "Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  },
+  {
+    "audit_id": "RF_100",
+    "tower_id": "TWR_1065",
+    "audit_date": "2025-10-29",
+    "rf_exposure": 1.21,
+    "compliance_status": "Non-Compliant",
+    "remarks": "Measured RF levels within assessed range"
+  }
+]

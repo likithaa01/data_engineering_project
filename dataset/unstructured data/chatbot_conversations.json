@@ -1,0 +1,2002 @@
+[
+  {
+    "chat_id": "CHT_1",
+    "customer_id": "CUST_1851",
+    "tower_id": "TWR_1020",
+    "timestamp": "2026-02-06T06:00:03.534824",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_2",
+    "customer_id": "CUST_1771",
+    "tower_id": "TWR_1097",
+    "timestamp": "2026-02-06T11:06:03.534859",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_3",
+    "customer_id": "CUST_1757",
+    "tower_id": "TWR_1049",
+    "timestamp": "2026-02-06T06:02:03.534869",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_4",
+    "customer_id": "CUST_1285",
+    "tower_id": "TWR_1041",
+    "timestamp": "2026-02-06T12:06:03.534873",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_5",
+    "customer_id": "CUST_1023",
+    "tower_id": "TWR_1007",
+    "timestamp": "2026-02-06T03:26:03.534877",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_6",
+    "customer_id": "CUST_1095",
+    "tower_id": "TWR_1066",
+    "timestamp": "2026-02-05T19:57:03.534881",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_7",
+    "customer_id": "CUST_1468",
+    "tower_id": "TWR_1035",
+    "timestamp": "2026-02-06T05:55:03.534885",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_8",
+    "customer_id": "CUST_1722",
+    "tower_id": "TWR_1027",
+    "timestamp": "2026-02-06T07:27:03.534888",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_9",
+    "customer_id": "CUST_1480",
+    "tower_id": "TWR_1063",
+    "timestamp": "2026-02-06T03:03:03.534893",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Delhi Noida"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_10",
+    "customer_id": "CUST_1766",
+    "tower_id": "TWR_1043",
+    "timestamp": "2026-02-06T09:17:03.534896",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_11",
+    "customer_id": "CUST_1208",
+    "tower_id": "TWR_1040",
+    "timestamp": "2026-02-05T20:28:03.534900",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_12",
+    "customer_id": "CUST_1378",
+    "tower_id": "TWR_1042",
+    "timestamp": "2026-02-06T03:03:03.534904",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_13",
+    "customer_id": "CUST_1181",
+    "tower_id": "TWR_1057",
+    "timestamp": "2026-02-06T11:58:03.534907",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_14",
+    "customer_id": "CUST_1151",
+    "tower_id": "TWR_1019",
+    "timestamp": "2026-02-06T00:11:03.534911",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_15",
+    "customer_id": "CUST_1551",
+    "tower_id": "TWR_1092",
+    "timestamp": "2026-02-06T01:56:03.534914",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_16",
+    "customer_id": "CUST_1097",
+    "tower_id": "TWR_1032",
+    "timestamp": "2026-02-05T21:28:03.534918",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_17",
+    "customer_id": "CUST_1448",
+    "tower_id": "TWR_1002",
+    "timestamp": "2026-02-06T11:09:03.534923",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_18",
+    "customer_id": "CUST_1853",
+    "tower_id": "TWR_1008",
+    "timestamp": "2026-02-05T23:09:03.534927",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_19",
+    "customer_id": "CUST_1095",
+    "tower_id": "TWR_1043",
+    "timestamp": "2026-02-05T19:44:03.534931",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_20",
+    "customer_id": "CUST_1731",
+    "tower_id": "TWR_1093",
+    "timestamp": "2026-02-06T06:01:03.534935",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_21",
+    "customer_id": "CUST_1271",
+    "tower_id": "TWR_1010",
+    "timestamp": "2026-02-05T21:27:03.534939",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_22",
+    "customer_id": "CUST_1774",
+    "tower_id": "TWR_1036",
+    "timestamp": "2026-02-06T12:14:03.534942",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_23",
+    "customer_id": "CUST_1542",
+    "tower_id": "TWR_1053",
+    "timestamp": "2026-02-05T21:03:03.534947",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_24",
+    "customer_id": "CUST_1515",
+    "tower_id": "TWR_1012",
+    "timestamp": "2026-02-06T03:57:03.534952",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_25",
+    "customer_id": "CUST_1577",
+    "tower_id": "TWR_1035",
+    "timestamp": "2026-02-06T03:58:03.534957",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_26",
+    "customer_id": "CUST_1711",
+    "tower_id": "TWR_1025",
+    "timestamp": "2026-02-06T07:32:03.534960",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Delhi Noida"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_27",
+    "customer_id": "CUST_1694",
+    "tower_id": "TWR_1035",
+    "timestamp": "2026-02-05T20:05:03.534964",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Delhi Noida"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_28",
+    "customer_id": "CUST_1568",
+    "tower_id": "TWR_1058",
+    "timestamp": "2026-02-06T03:53:03.534967",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Delhi Noida"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_29",
+    "customer_id": "CUST_1161",
+    "tower_id": "TWR_1057",
+    "timestamp": "2026-02-05T20:26:03.534971",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_30",
+    "customer_id": "CUST_1753",
+    "tower_id": "TWR_1037",
+    "timestamp": "2026-02-05T22:46:03.534976",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Delhi Noida"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_31",
+    "customer_id": "CUST_1174",
+    "tower_id": "TWR_1066",
+    "timestamp": "2026-02-06T10:25:03.534981",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_32",
+    "customer_id": "CUST_1092",
+    "tower_id": "TWR_1019",
+    "timestamp": "2026-02-05T20:18:03.534984",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_33",
+    "customer_id": "CUST_1763",
+    "tower_id": "TWR_1026",
+    "timestamp": "2026-02-05T21:07:03.534988",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_34",
+    "customer_id": "CUST_1882",
+    "tower_id": "TWR_1077",
+    "timestamp": "2026-02-06T03:13:03.534991",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_35",
+    "customer_id": "CUST_1523",
+    "tower_id": "TWR_1022",
+    "timestamp": "2026-02-05T22:12:03.534996",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_36",
+    "customer_id": "CUST_1971",
+    "tower_id": "TWR_1092",
+    "timestamp": "2026-02-05T23:49:03.534999",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_37",
+    "customer_id": "CUST_1412",
+    "tower_id": "TWR_1089",
+    "timestamp": "2026-02-06T00:49:03.535004",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_38",
+    "customer_id": "CUST_1950",
+    "tower_id": "TWR_1014",
+    "timestamp": "2026-02-06T08:29:03.535007",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_39",
+    "customer_id": "CUST_1356",
+    "tower_id": "TWR_1003",
+    "timestamp": "2026-02-06T04:26:03.535010",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_40",
+    "customer_id": "CUST_1950",
+    "tower_id": "TWR_1023",
+    "timestamp": "2026-02-06T10:21:03.535014",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_41",
+    "customer_id": "CUST_1189",
+    "tower_id": "TWR_1082",
+    "timestamp": "2026-02-06T05:31:03.535018",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_42",
+    "customer_id": "CUST_1700",
+    "tower_id": "TWR_1048",
+    "timestamp": "2026-02-06T10:38:03.535021",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_43",
+    "customer_id": "CUST_1649",
+    "tower_id": "TWR_1033",
+    "timestamp": "2026-02-05T19:53:03.535024",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_44",
+    "customer_id": "CUST_1352",
+    "tower_id": "TWR_1063",
+    "timestamp": "2026-02-06T01:46:03.535029",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_45",
+    "customer_id": "CUST_1106",
+    "tower_id": "TWR_1047",
+    "timestamp": "2026-02-06T09:09:03.535032",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_46",
+    "customer_id": "CUST_1669",
+    "tower_id": "TWR_1099",
+    "timestamp": "2026-02-06T06:47:03.535036",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_47",
+    "customer_id": "CUST_1920",
+    "tower_id": "TWR_1066",
+    "timestamp": "2026-02-05T22:53:03.535039",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Delhi Noida"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_48",
+    "customer_id": "CUST_2000",
+    "tower_id": "TWR_1026",
+    "timestamp": "2026-02-06T10:40:03.535042",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_49",
+    "customer_id": "CUST_1664",
+    "tower_id": "TWR_1015",
+    "timestamp": "2026-02-05T21:59:03.535046",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_50",
+    "customer_id": "CUST_1932",
+    "tower_id": "TWR_1016",
+    "timestamp": "2026-02-05T19:51:03.535050",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_51",
+    "customer_id": "CUST_1295",
+    "tower_id": "TWR_1098",
+    "timestamp": "2026-02-06T05:41:03.535053",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_52",
+    "customer_id": "CUST_1951",
+    "tower_id": "TWR_1094",
+    "timestamp": "2026-02-05T20:12:03.535056",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_53",
+    "customer_id": "CUST_1291",
+    "tower_id": "TWR_1059",
+    "timestamp": "2026-02-06T00:29:03.535059",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_54",
+    "customer_id": "CUST_1058",
+    "tower_id": "TWR_1032",
+    "timestamp": "2026-02-06T05:51:03.535063",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_55",
+    "customer_id": "CUST_1185",
+    "tower_id": "TWR_1007",
+    "timestamp": "2026-02-06T00:02:03.535066",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_56",
+    "customer_id": "CUST_1583",
+    "tower_id": "TWR_1063",
+    "timestamp": "2026-02-05T20:59:03.535069",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_57",
+    "customer_id": "CUST_1860",
+    "tower_id": "TWR_1087",
+    "timestamp": "2026-02-05T21:12:03.535074",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_58",
+    "customer_id": "CUST_1679",
+    "tower_id": "TWR_1050",
+    "timestamp": "2026-02-05T22:24:03.535077",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_59",
+    "customer_id": "CUST_1296",
+    "tower_id": "TWR_1068",
+    "timestamp": "2026-02-06T02:24:03.535080",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_60",
+    "customer_id": "CUST_1475",
+    "tower_id": "TWR_1004",
+    "timestamp": "2026-02-05T22:48:03.535083",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Delhi Noida"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_61",
+    "customer_id": "CUST_1598",
+    "tower_id": "TWR_1094",
+    "timestamp": "2026-02-06T06:03:03.535087",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_62",
+    "customer_id": "CUST_1361",
+    "tower_id": "TWR_1084",
+    "timestamp": "2026-02-06T08:13:03.535092",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Delhi Noida"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_63",
+    "customer_id": "CUST_1541",
+    "tower_id": "TWR_1038",
+    "timestamp": "2026-02-06T05:25:03.535095",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_64",
+    "customer_id": "CUST_1154",
+    "tower_id": "TWR_1065",
+    "timestamp": "2026-02-06T06:51:03.535099",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_65",
+    "customer_id": "CUST_1330",
+    "tower_id": "TWR_1084",
+    "timestamp": "2026-02-06T11:01:03.535102",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_66",
+    "customer_id": "CUST_1545",
+    "tower_id": "TWR_1081",
+    "timestamp": "2026-02-06T07:11:03.535107",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_67",
+    "customer_id": "CUST_1281",
+    "tower_id": "TWR_1034",
+    "timestamp": "2026-02-06T11:22:03.535110",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_68",
+    "customer_id": "CUST_1088",
+    "tower_id": "TWR_1033",
+    "timestamp": "2026-02-06T05:43:03.535351",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Delhi Noida"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_69",
+    "customer_id": "CUST_1522",
+    "tower_id": "TWR_1006",
+    "timestamp": "2026-02-06T02:08:03.535358",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_70",
+    "customer_id": "CUST_1438",
+    "tower_id": "TWR_1050",
+    "timestamp": "2026-02-06T11:26:03.535362",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_71",
+    "customer_id": "CUST_1239",
+    "tower_id": "TWR_1098",
+    "timestamp": "2026-02-05T20:57:03.535366",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_72",
+    "customer_id": "CUST_1893",
+    "tower_id": "TWR_1010",
+    "timestamp": "2026-02-06T05:01:03.535369",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Delhi Noida"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_73",
+    "customer_id": "CUST_1029",
+    "tower_id": "TWR_1095",
+    "timestamp": "2026-02-06T09:19:03.535373",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_74",
+    "customer_id": "CUST_1217",
+    "tower_id": "TWR_1076",
+    "timestamp": "2026-02-06T02:59:03.535379",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_75",
+    "customer_id": "CUST_1660",
+    "tower_id": "TWR_1039",
+    "timestamp": "2026-02-06T07:17:03.535382",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_76",
+    "customer_id": "CUST_1460",
+    "tower_id": "TWR_1098",
+    "timestamp": "2026-02-06T06:14:03.535386",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_77",
+    "customer_id": "CUST_1463",
+    "tower_id": "TWR_1010",
+    "timestamp": "2026-02-06T11:13:03.535390",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_78",
+    "customer_id": "CUST_1210",
+    "tower_id": "TWR_1091",
+    "timestamp": "2026-02-06T00:15:03.535397",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_79",
+    "customer_id": "CUST_1718",
+    "tower_id": "TWR_1046",
+    "timestamp": "2026-02-05T22:11:03.535400",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_80",
+    "customer_id": "CUST_1647",
+    "tower_id": "TWR_1076",
+    "timestamp": "2026-02-06T07:11:03.535403",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_81",
+    "customer_id": "CUST_1773",
+    "tower_id": "TWR_1048",
+    "timestamp": "2026-02-06T06:50:03.535407",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_82",
+    "customer_id": "CUST_1137",
+    "tower_id": "TWR_1053",
+    "timestamp": "2026-02-06T05:18:03.535412",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_83",
+    "customer_id": "CUST_1964",
+    "tower_id": "TWR_1039",
+    "timestamp": "2026-02-06T10:21:03.535415",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_84",
+    "customer_id": "CUST_1384",
+    "tower_id": "TWR_1056",
+    "timestamp": "2026-02-06T08:18:03.535418",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_85",
+    "customer_id": "CUST_1126",
+    "tower_id": "TWR_1082",
+    "timestamp": "2026-02-05T22:49:03.535421",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Delhi Noida"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_86",
+    "customer_id": "CUST_1705",
+    "tower_id": "TWR_1021",
+    "timestamp": "2026-02-05T20:13:03.535424",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Delhi Noida"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_87",
+    "customer_id": "CUST_1492",
+    "tower_id": "TWR_1005",
+    "timestamp": "2026-02-06T01:50:03.535429",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Voice is breaking during calls"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_88",
+    "customer_id": "CUST_1784",
+    "tower_id": "TWR_1000",
+    "timestamp": "2026-02-06T06:24:03.535433",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Delhi Noida"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_89",
+    "customer_id": "CUST_1497",
+    "tower_id": "TWR_1029",
+    "timestamp": "2026-02-06T00:01:03.535436",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Have you restarted your device?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_90",
+    "customer_id": "CUST_1038",
+    "tower_id": "TWR_1010",
+    "timestamp": "2026-02-06T07:18:03.535440",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_91",
+    "customer_id": "CUST_1808",
+    "tower_id": "TWR_1011",
+    "timestamp": "2026-02-06T02:17:03.535443",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_92",
+    "customer_id": "CUST_1908",
+    "tower_id": "TWR_1052",
+    "timestamp": "2026-02-05T20:06:03.535447",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Bangalore Whitefield"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_93",
+    "customer_id": "CUST_1406",
+    "tower_id": "TWR_1070",
+    "timestamp": "2026-02-06T11:33:03.535450",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_94",
+    "customer_id": "CUST_1835",
+    "tower_id": "TWR_1089",
+    "timestamp": "2026-02-05T22:37:03.535462",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Internet not working"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this happening at a specific time?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_95",
+    "customer_id": "CUST_1341",
+    "tower_id": "TWR_1098",
+    "timestamp": "2026-02-05T22:38:03.535465",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_96",
+    "customer_id": "CUST_1333",
+    "tower_id": "TWR_1009",
+    "timestamp": "2026-02-06T03:24:03.535472",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Chennai OMR"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_97",
+    "customer_id": "CUST_1523",
+    "tower_id": "TWR_1082",
+    "timestamp": "2026-02-06T06:51:03.535477",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Calls are dropping frequently"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_98",
+    "customer_id": "CUST_1683",
+    "tower_id": "TWR_1054",
+    "timestamp": "2026-02-05T21:16:03.535482",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Hyderabad Gachibowli"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_99",
+    "customer_id": "CUST_1945",
+    "tower_id": "TWR_1041",
+    "timestamp": "2026-02-06T08:35:03.535485",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Network is slow"
+      },
+      {
+        "sender": "bot",
+        "text": "Which location are you experiencing this issue?"
+      },
+      {
+        "sender": "customer",
+        "text": "Delhi Noida"
+      }
+    ]
+  },
+  {
+    "chat_id": "CHT_100",
+    "customer_id": "CUST_1989",
+    "tower_id": "TWR_1091",
+    "timestamp": "2026-02-06T03:38:03.535489",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "No signal in my area"
+      },
+      {
+        "sender": "bot",
+        "text": "Is the issue ongoing right now?"
+      },
+      {
+        "sender": "customer",
+        "text": "Pune Hinjewadi"
+      }
+    ]
+  }
+]

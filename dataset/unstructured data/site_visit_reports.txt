@@ -1,0 +1,100 @@
+[1] 2026-02-06T13:04:07.403537 - Tower location inaccessible due to rain
+[2] 2026-02-06T13:03:07.403549 - Tower location inaccessible due to rain
+[3] 2026-02-06T13:02:07.403552 - Antenna alignment required
+[4] 2026-02-06T13:01:07.403555 - Power backup below threshold
+[5] 2026-02-06T13:00:07.403557 - Antenna alignment required
+[6] 2026-02-06T12:59:07.403560 - Tower location inaccessible due to rain
+[7] 2026-02-06T12:58:07.403562 - Site inspection completed successfully
+[8] 2026-02-06T12:57:07.403564 - Tower location inaccessible due to rain
+[9] 2026-02-06T12:56:07.403566 - Antenna alignment required
+[10] 2026-02-06T12:55:07.403569 - Tower location inaccessible due to rain
+[11] 2026-02-06T12:54:07.403571 - Tower location inaccessible due to rain
+[12] 2026-02-06T12:53:07.403574 - Power backup below threshold
+[13] 2026-02-06T12:52:07.403576 - Antenna alignment required
+[14] 2026-02-06T12:51:07.403578 - Power backup below threshold
+[15] 2026-02-06T12:50:07.403580 - Antenna alignment required
+[16] 2026-02-06T12:49:07.403583 - Power backup below threshold
+[17] 2026-02-06T12:48:07.403585 - Antenna alignment required
+[18] 2026-02-06T12:47:07.403587 - Antenna alignment required
+[19] 2026-02-06T12:46:07.403589 - Tower location inaccessible due to rain
+[20] 2026-02-06T12:45:07.403592 - Power backup below threshold
+[21] 2026-02-06T12:44:07.403594 - Tower location inaccessible due to rain
+[22] 2026-02-06T12:43:07.403596 - Antenna alignment required
+[23] 2026-02-06T12:42:07.403598 - Tower location inaccessible due to rain
+[24] 2026-02-06T12:41:07.403601 - Power backup below threshold
+[25] 2026-02-06T12:40:07.403603 - Antenna alignment required
+[26] 2026-02-06T12:39:07.403605 - Power backup below threshold
+[27] 2026-02-06T12:38:07.403608 - Antenna alignment required
+[28] 2026-02-06T12:37:07.403610 - Antenna alignment required
+[29] 2026-02-06T12:36:07.403613 - Tower location inaccessible due to rain
+[30] 2026-02-06T12:35:07.403615 - Power backup below threshold
+[31] 2026-02-06T12:34:07.403617 - Power backup below threshold
+[32] 2026-02-06T12:33:07.403619 - Antenna alignment required
+[33] 2026-02-06T12:32:07.403621 - Site inspection completed successfully
+[34] 2026-02-06T12:31:07.403624 - Antenna alignment required
+[35] 2026-02-06T12:30:07.403626 - Antenna alignment required
+[36] 2026-02-06T12:29:07.403628 - Antenna alignment required
+[37] 2026-02-06T12:28:07.403631 - Tower location inaccessible due to rain
+[38] 2026-02-06T12:27:07.403633 - Site inspection completed successfully
+[39] 2026-02-06T12:26:07.403635 - Tower location inaccessible due to rain
+[40] 2026-02-06T12:25:07.403637 - Power backup below threshold
+[41] 2026-02-06T12:24:07.403639 - Power backup below threshold
+[42] 2026-02-06T12:23:07.403642 - Power backup below threshold
+[43] 2026-02-06T12:22:07.403644 - Power backup below threshold
+[44] 2026-02-06T12:21:07.403646 - Tower location inaccessible due to rain
+[45] 2026-02-06T12:20:07.403648 - Tower location inaccessible due to rain
+[46] 2026-02-06T12:19:07.403651 - Power backup below threshold
+[47] 2026-02-06T12:18:07.403653 - Site inspection completed successfully
+[48] 2026-02-06T12:17:07.403656 - Power backup below threshold
+[49] 2026-02-06T12:16:07.403658 - Tower location inaccessible due to rain
+[50] 2026-02-06T12:15:07.403661 - Power backup below threshold
+[51] 2026-02-06T12:14:07.403663 - Tower location inaccessible due to rain
+[52] 2026-02-06T12:13:07.403665 - Antenna alignment required
+[53] 2026-02-06T12:12:07.403667 - Power backup below threshold
+[54] 2026-02-06T12:11:07.403669 - Tower location inaccessible due to rain
+[55] 2026-02-06T12:10:07.403671 - Antenna alignment required
+[56] 2026-02-06T12:09:07.403674 - Site inspection completed successfully
+[57] 2026-02-06T12:08:07.403676 - Antenna alignment required
+[58] 2026-02-06T12:07:07.403678 - Antenna alignment required
+[59] 2026-02-06T12:06:07.403680 - Power backup below threshold
+[60] 2026-02-06T12:05:07.403683 - Tower location inaccessible due to rain
+[61] 2026-02-06T12:04:07.403685 - Tower location inaccessible due to rain
+[62] 2026-02-06T12:03:07.403687 - Power backup below threshold
+[63] 2026-02-06T12:02:07.403690 - Site inspection completed successfully
+[64] 2026-02-06T12:01:07.403692 - Tower location inaccessible due to rain
+[65] 2026-02-06T12:00:07.403694 - Power backup below threshold
+[66] 2026-02-06T11:59:07.403697 - Tower location inaccessible due to rain
+[67] 2026-02-06T11:58:07.403699 - Site inspection completed successfully
+[68] 2026-02-06T11:57:07.403701 - Antenna alignment required
+[69] 2026-02-06T11:56:07.403704 - Power backup below threshold
+[70] 2026-02-06T11:55:07.403706 - Tower location inaccessible due to rain
+[71] 2026-02-06T11:54:07.403708 - Antenna alignment required
+[72] 2026-02-06T11:53:07.403710 - Antenna alignment required
+[73] 2026-02-06T11:52:07.403712 - Tower location inaccessible due to rain
+[74] 2026-02-06T11:51:07.403715 - Power backup below threshold
+[75] 2026-02-06T11:50:07.403717 - Tower location inaccessible due to rain
+[76] 2026-02-06T11:49:07.403719 - Power backup below threshold
+[77] 2026-02-06T11:48:07.403721 - Power backup below threshold
+[78] 2026-02-06T11:47:07.403724 - Site inspection completed successfully
+[79] 2026-02-06T11:46:07.403726 - Power backup below threshold
+[80] 2026-02-06T11:45:07.403729 - Power backup below threshold
+[81] 2026-02-06T11:44:07.403731 - Tower location inaccessible due to rain
+[82] 2026-02-06T11:43:07.403733 - Tower location inaccessible due to rain
+[83] 2026-02-06T11:42:07.403736 - Tower location inaccessible due to rain
+[84] 2026-02-06T11:41:07.403738 - Tower location inaccessible due to rain
+[85] 2026-02-06T11:40:07.403740 - Antenna alignment required
+[86] 2026-02-06T11:39:07.403742 - Site inspection completed successfully
+[87] 2026-02-06T11:38:07.403744 - Antenna alignment required
+[88] 2026-02-06T11:37:07.403747 - Site inspection completed successfully
+[89] 2026-02-06T11:36:07.403749 - Tower location inaccessible due to rain
+[90] 2026-02-06T11:35:07.403751 - Antenna alignment required
+[91] 2026-02-06T11:34:07.403754 - Power backup below threshold
+[92] 2026-02-06T11:33:07.403756 - Site inspection completed successfully
+[93] 2026-02-06T11:32:07.403758 - Tower location inaccessible due to rain
+[94] 2026-02-06T11:31:07.403761 - Power backup below threshold
+[95] 2026-02-06T11:30:07.403763 - Site inspection completed successfully
+[96] 2026-02-06T11:29:07.403765 - Tower location inaccessible due to rain
+[97] 2026-02-06T11:28:07.403767 - Site inspection completed successfully
+[98] 2026-02-06T11:27:07.403770 - Tower location inaccessible due to rain
+[99] 2026-02-06T11:26:07.403772 - Antenna alignment required
+[100] 2026-02-06T11:25:07.403775 - Site inspection completed successfully

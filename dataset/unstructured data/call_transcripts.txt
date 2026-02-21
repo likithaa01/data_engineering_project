@@ -1,0 +1,200 @@
+[1] 2026-02-06T13:04:07.404768 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[2] 2026-02-06T13:03:07.404778 - Agent: Which location?
+Customer: Near Whitefield.
+[3] 2026-02-06T13:02:07.404781 - Agent: Which location?
+Customer: Near Whitefield.
+[4] 2026-02-06T13:01:07.404783 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[5] 2026-02-06T13:00:07.404792 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[6] 2026-02-06T12:59:07.404794 - Agent: Which location?
+Customer: Near Whitefield.
+[7] 2026-02-06T12:58:07.404797 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[8] 2026-02-06T12:57:07.404799 - Agent: Which location?
+Customer: Near Whitefield.
+[9] 2026-02-06T12:56:07.404801 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[10] 2026-02-06T12:55:07.404804 - Agent: Which location?
+Customer: Near Whitefield.
+[11] 2026-02-06T12:54:07.404806 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[12] 2026-02-06T12:53:07.404808 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[13] 2026-02-06T12:52:07.404811 - Agent: Which location?
+Customer: Near Whitefield.
+[14] 2026-02-06T12:51:07.404813 - Agent: Which location?
+Customer: Near Whitefield.
+[15] 2026-02-06T12:50:07.404815 - Agent: Which location?
+Customer: Near Whitefield.
+[16] 2026-02-06T12:49:07.404817 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[17] 2026-02-06T12:48:07.404820 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[18] 2026-02-06T12:47:07.404822 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[19] 2026-02-06T12:46:07.404825 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[20] 2026-02-06T12:45:07.404827 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[21] 2026-02-06T12:44:07.404830 - Agent: Which location?
+Customer: Near Whitefield.
+[22] 2026-02-06T12:43:07.404832 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[23] 2026-02-06T12:42:07.404834 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[24] 2026-02-06T12:41:07.404837 - Agent: Which location?
+Customer: Near Whitefield.
+[25] 2026-02-06T12:40:07.404839 - Agent: Which location?
+Customer: Near Whitefield.
+[26] 2026-02-06T12:39:07.404841 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[27] 2026-02-06T12:38:07.404843 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[28] 2026-02-06T12:37:07.404846 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[29] 2026-02-06T12:36:07.404848 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[30] 2026-02-06T12:35:07.404851 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[31] 2026-02-06T12:34:07.404853 - Agent: Which location?
+Customer: Near Whitefield.
+[32] 2026-02-06T12:33:07.404855 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[33] 2026-02-06T12:32:07.404858 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[34] 2026-02-06T12:31:07.404860 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[35] 2026-02-06T12:30:07.404862 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[36] 2026-02-06T12:29:07.404864 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[37] 2026-02-06T12:28:07.404867 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[38] 2026-02-06T12:27:07.404869 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[39] 2026-02-06T12:26:07.404871 - Agent: Which location?
+Customer: Near Whitefield.
+[40] 2026-02-06T12:25:07.404874 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[41] 2026-02-06T12:24:07.404876 - Agent: Which location?
+Customer: Near Whitefield.
+[42] 2026-02-06T12:23:07.404878 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[43] 2026-02-06T12:22:07.404881 - Agent: Which location?
+Customer: Near Whitefield.
+[44] 2026-02-06T12:21:07.404883 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[45] 2026-02-06T12:20:07.404885 - Agent: Which location?
+Customer: Near Whitefield.
+[46] 2026-02-06T12:19:07.404887 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[47] 2026-02-06T12:18:07.404890 - Agent: Which location?
+Customer: Near Whitefield.
+[48] 2026-02-06T12:17:07.404892 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[49] 2026-02-06T12:16:07.404896 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[50] 2026-02-06T12:15:07.404898 - Agent: Which location?
+Customer: Near Whitefield.
+[51] 2026-02-06T12:14:07.404900 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[52] 2026-02-06T12:13:07.404903 - Agent: Which location?
+Customer: Near Whitefield.
+[53] 2026-02-06T12:12:07.404905 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[54] 2026-02-06T12:11:07.404908 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[55] 2026-02-06T12:10:07.404910 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[56] 2026-02-06T12:09:07.404912 - Agent: Which location?
+Customer: Near Whitefield.
+[57] 2026-02-06T12:08:07.404914 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[58] 2026-02-06T12:07:07.404917 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[59] 2026-02-06T12:06:07.404919 - Agent: Which location?
+Customer: Near Whitefield.
+[60] 2026-02-06T12:05:07.404921 - Agent: Which location?
+Customer: Near Whitefield.
+[61] 2026-02-06T12:04:07.404925 - Agent: Which location?
+Customer: Near Whitefield.
+[62] 2026-02-06T12:03:07.404927 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[63] 2026-02-06T12:02:07.404929 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[64] 2026-02-06T12:01:07.404932 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[65] 2026-02-06T12:00:07.404934 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[66] 2026-02-06T11:59:07.404936 - Agent: Which location?
+Customer: Near Whitefield.
+[67] 2026-02-06T11:58:07.404939 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[68] 2026-02-06T11:57:07.404941 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[69] 2026-02-06T11:56:07.404943 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[70] 2026-02-06T11:55:07.404946 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[71] 2026-02-06T11:54:07.404948 - Agent: Which location?
+Customer: Near Whitefield.
+[72] 2026-02-06T11:53:07.404950 - Agent: Which location?
+Customer: Near Whitefield.
+[73] 2026-02-06T11:52:07.404953 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[74] 2026-02-06T11:51:07.404955 - Agent: Which location?
+Customer: Near Whitefield.
+[75] 2026-02-06T11:50:07.404957 - Agent: Which location?
+Customer: Near Whitefield.
+[76] 2026-02-06T11:49:07.404959 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[77] 2026-02-06T11:48:07.404962 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[78] 2026-02-06T11:47:07.404965 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[79] 2026-02-06T11:46:07.404967 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[80] 2026-02-06T11:45:07.404969 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[81] 2026-02-06T11:44:07.404972 - Agent: Which location?
+Customer: Near Whitefield.
+[82] 2026-02-06T11:43:07.404974 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[83] 2026-02-06T11:42:07.404980 - Agent: Which location?
+Customer: Near Whitefield.
+[84] 2026-02-06T11:41:07.404982 - Agent: Which location?
+Customer: Near Whitefield.
+[85] 2026-02-06T11:40:07.404984 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[86] 2026-02-06T11:39:07.404987 - Agent: Which location?
+Customer: Near Whitefield.
+[87] 2026-02-06T11:38:07.404989 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[88] 2026-02-06T11:37:07.404992 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
+[89] 2026-02-06T11:36:07.404994 - Agent: Which location?
+Customer: Near Whitefield.
+[90] 2026-02-06T11:35:07.404996 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[91] 2026-02-06T11:34:07.404998 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[92] 2026-02-06T11:33:07.405001 - Agent: Which location?
+Customer: Near Whitefield.
+[93] 2026-02-06T11:32:07.405003 - Agent: Which location?
+Customer: Near Whitefield.
+[94] 2026-02-06T11:31:07.405005 - Agent: Which location?
+Customer: Near Whitefield.
+[95] 2026-02-06T11:30:07.405007 - Agent: Which location?
+Customer: Near Whitefield.
+[96] 2026-02-06T11:29:07.405010 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[97] 2026-02-06T11:28:07.405012 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[98] 2026-02-06T11:27:07.405014 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[99] 2026-02-06T11:26:07.405017 - Agent: When did the issue start?
+Customer: Since yesterday evening.
+[100] 2026-02-06T11:25:07.405019 - Agent: Please describe the issue.
+Customer: Calls are dropping frequently.
