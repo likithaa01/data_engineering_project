@@ -1,0 +1,101 @@
+alarm_id,tower_id,equipment_id,timestamp,severity,alarm_type,description
+ALM_001,TWR_1031,EQP_271,2026-02-06 10:02:00,Minor,Connection Timeout,Potential outage risk identified.
+ALM_002,TWR_1065,EQP_171,2026-02-06 10:04:00,Critical,Power Fluctuation,"Temporary issue detected, monitoring recommended."
+ALM_003,TWR_1018,EQP_307,2026-02-06 10:06:00,Critical,Network Congestion,Potential outage risk identified.
+ALM_004,TWR_1011,EQP_468,2026-02-06 10:08:00,Major,Network Congestion,Immediate inspection required to prevent service disruption.
+ALM_005,TWR_1086,EQP_381,2026-02-06 10:10:00,Major,Overheating,"Temporary issue detected, monitoring recommended."
+ALM_006,TWR_1045,EQP_361,2026-02-06 10:12:00,Critical,Hardware Failure,Performance degradation observed in network segment.
+ALM_007,TWR_1028,EQP_190,2026-02-06 10:14:00,Critical,Network Congestion,Potential outage risk identified.
+ALM_008,TWR_1051,EQP_195,2026-02-06 10:16:00,Critical,Overheating,Requires maintenance intervention.
+ALM_009,TWR_1083,EQP_416,2026-02-06 10:18:00,Critical,Hardware Failure,System auto-recovery initiated.
+ALM_010,TWR_1082,EQP_135,2026-02-06 10:20:00,Critical,Connection Timeout,Requires maintenance intervention.
+ALM_011,TWR_1003,EQP_384,2026-02-06 10:22:00,Major,Overheating,Performance degradation observed in network segment.
+ALM_012,TWR_1016,EQP_269,2026-02-06 10:24:00,Minor,Overheating,Requires maintenance intervention.
+ALM_013,TWR_1062,EQP_386,2026-02-06 10:26:00,Major,Overheating,System auto-recovery initiated.
+ALM_014,TWR_1027,EQP_382,2026-02-06 10:28:00,Minor,Connection Timeout,Immediate inspection required to prevent service disruption.
+ALM_015,TWR_1011,EQP_197,2026-02-06 10:30:00,Minor,Connection Timeout,Requires maintenance intervention.
+ALM_016,TWR_1006,EQP_474,2026-02-06 10:32:00,Critical,Signal Drop,System auto-recovery initiated.
+ALM_017,TWR_1085,EQP_174,2026-02-06 10:34:00,Major,Connection Timeout,Potential outage risk identified.
+ALM_018,TWR_1027,EQP_465,2026-02-06 10:36:00,Major,Overheating,Performance degradation observed in network segment.
+ALM_019,TWR_1050,EQP_455,2026-02-06 10:38:00,Critical,Network Congestion,"Temporary issue detected, monitoring recommended."
+ALM_020,TWR_1098,EQP_257,2026-02-06 10:40:00,Critical,Connection Timeout,"Temporary issue detected, monitoring recommended."
+ALM_021,TWR_1067,EQP_403,2026-02-06 10:42:00,Minor,Network Congestion,Potential outage risk identified.
+ALM_022,TWR_1040,EQP_395,2026-02-06 10:44:00,Minor,Hardware Failure,Requires maintenance intervention.
+ALM_023,TWR_1030,EQP_248,2026-02-06 10:46:00,Critical,Hardware Failure,System auto-recovery initiated.
+ALM_024,TWR_1095,EQP_391,2026-02-06 10:48:00,Critical,Hardware Failure,System auto-recovery initiated.
+ALM_025,TWR_1029,EQP_201,2026-02-06 10:50:00,Critical,Overheating,System auto-recovery initiated.
+ALM_026,TWR_1057,EQP_488,2026-02-06 10:52:00,Major,Power Fluctuation,System auto-recovery initiated.
+ALM_027,TWR_1060,EQP_221,2026-02-06 10:54:00,Minor,Connection Timeout,System auto-recovery initiated.
+ALM_028,TWR_1015,EQP_190,2026-02-06 10:56:00,Major,Power Fluctuation,System auto-recovery initiated.
+ALM_029,TWR_1021,EQP_341,2026-02-06 10:58:00,Major,Hardware Failure,Potential outage risk identified.
+ALM_030,TWR_1032,EQP_220,2026-02-06 11:00:00,Major,Network Congestion,Potential outage risk identified.
+ALM_031,TWR_1097,EQP_308,2026-02-06 11:02:00,Minor,Overheating,Requires maintenance intervention.
+ALM_032,TWR_1072,EQP_306,2026-02-06 11:04:00,Major,Signal Drop,Requires maintenance intervention.
+ALM_033,TWR_1009,EQP_207,2026-02-06 11:06:00,Major,Connection Timeout,Immediate inspection required to prevent service disruption.
+ALM_034,TWR_1062,EQP_493,2026-02-06 11:08:00,Critical,Power Fluctuation,Immediate inspection required to prevent service disruption.
+ALM_035,TWR_1040,EQP_399,2026-02-06 11:10:00,Critical,Power Fluctuation,Immediate inspection required to prevent service disruption.
+ALM_036,TWR_1031,EQP_405,2026-02-06 11:12:00,Minor,Network Congestion,Potential outage risk identified.
+ALM_037,TWR_1082,EQP_410,2026-02-06 11:14:00,Major,Network Congestion,System auto-recovery initiated.
+ALM_038,TWR_1088,EQP_104,2026-02-06 11:16:00,Minor,Power Fluctuation,Potential outage risk identified.
+ALM_039,TWR_1011,EQP_281,2026-02-06 11:18:00,Critical,Overheating,Requires maintenance intervention.
+ALM_040,TWR_1083,EQP_249,2026-02-06 11:20:00,Minor,Hardware Failure,Performance degradation observed in network segment.
+ALM_041,TWR_1021,EQP_189,2026-02-06 11:22:00,Critical,Signal Drop,Requires maintenance intervention.
+ALM_042,TWR_1036,EQP_101,2026-02-06 11:24:00,Critical,Connection Timeout,System auto-recovery initiated.
+ALM_043,TWR_1089,EQP_440,2026-02-06 11:26:00,Major,Connection Timeout,System auto-recovery initiated.
+ALM_044,TWR_1086,EQP_345,2026-02-06 11:28:00,Critical,Connection Timeout,Potential outage risk identified.
+ALM_045,TWR_1065,EQP_149,2026-02-06 11:30:00,Major,Hardware Failure,"Temporary issue detected, monitoring recommended."
+ALM_046,TWR_1090,EQP_393,2026-02-06 11:32:00,Major,Overheating,Performance degradation observed in network segment.
+ALM_047,TWR_1011,EQP_457,2026-02-06 11:34:00,Minor,Hardware Failure,Immediate inspection required to prevent service disruption.
+ALM_048,TWR_1022,EQP_498,2026-02-06 11:36:00,Minor,Power Fluctuation,Requires maintenance intervention.
+ALM_049,TWR_1049,EQP_416,2026-02-06 11:38:00,Major,Connection Timeout,Requires maintenance intervention.
+ALM_050,TWR_1090,EQP_207,2026-02-06 11:40:00,Minor,Overheating,"Temporary issue detected, monitoring recommended."
+ALM_051,TWR_1031,EQP_477,2026-02-06 11:42:00,Critical,Hardware Failure,Potential outage risk identified.
+ALM_052,TWR_1064,EQP_208,2026-02-06 11:44:00,Critical,Network Congestion,"Temporary issue detected, monitoring recommended."
+ALM_053,TWR_1067,EQP_370,2026-02-06 11:46:00,Critical,Connection Timeout,System auto-recovery initiated.
+ALM_054,TWR_1046,EQP_128,2026-02-06 11:48:00,Minor,Hardware Failure,Potential outage risk identified.
+ALM_055,TWR_1037,EQP_404,2026-02-06 11:50:00,Major,Overheating,Potential outage risk identified.
+ALM_056,TWR_1071,EQP_312,2026-02-06 11:52:00,Minor,Connection Timeout,Requires maintenance intervention.
+ALM_057,TWR_1093,EQP_194,2026-02-06 11:54:00,Minor,Overheating,System auto-recovery initiated.
+ALM_058,TWR_1025,EQP_376,2026-02-06 11:56:00,Major,Signal Drop,System auto-recovery initiated.
+ALM_059,TWR_1091,EQP_126,2026-02-06 11:58:00,Critical,Network Congestion,Immediate inspection required to prevent service disruption.
+ALM_060,TWR_1039,EQP_470,2026-02-06 12:00:00,Major,Overheating,Requires maintenance intervention.
+ALM_061,TWR_1065,EQP_478,2026-02-06 12:02:00,Critical,Power Fluctuation,"Temporary issue detected, monitoring recommended."
+ALM_062,TWR_1032,EQP_424,2026-02-06 12:04:00,Minor,Connection Timeout,Performance degradation observed in network segment.
+ALM_063,TWR_1016,EQP_472,2026-02-06 12:06:00,Critical,Overheating,Performance degradation observed in network segment.
+ALM_064,TWR_1073,EQP_308,2026-02-06 12:08:00,Critical,Connection Timeout,Requires maintenance intervention.
+ALM_065,TWR_1058,EQP_340,2026-02-06 12:10:00,Major,Connection Timeout,Performance degradation observed in network segment.
+ALM_066,TWR_1007,EQP_388,2026-02-06 12:12:00,Minor,Hardware Failure,"Temporary issue detected, monitoring recommended."
+ALM_067,TWR_1059,EQP_429,2026-02-06 12:14:00,Major,Network Congestion,Performance degradation observed in network segment.
+ALM_068,TWR_1039,EQP_221,2026-02-06 12:16:00,Major,Hardware Failure,Immediate inspection required to prevent service disruption.
+ALM_069,TWR_1025,EQP_307,2026-02-06 12:18:00,Critical,Hardware Failure,Immediate inspection required to prevent service disruption.
+ALM_070,TWR_1058,EQP_202,2026-02-06 12:20:00,Major,Power Fluctuation,Performance degradation observed in network segment.
+ALM_071,TWR_1088,EQP_404,2026-02-06 12:22:00,Critical,Signal Drop,Requires maintenance intervention.
+ALM_072,TWR_1081,EQP_145,2026-02-06 12:24:00,Minor,Power Fluctuation,Requires maintenance intervention.
+ALM_073,TWR_1090,EQP_194,2026-02-06 12:26:00,Minor,Connection Timeout,Potential outage risk identified.
+ALM_074,TWR_1085,EQP_224,2026-02-06 12:28:00,Major,Connection Timeout,"Temporary issue detected, monitoring recommended."
+ALM_075,TWR_1038,EQP_142,2026-02-06 12:30:00,Critical,Network Congestion,"Temporary issue detected, monitoring recommended."
+ALM_076,TWR_1024,EQP_425,2026-02-06 12:32:00,Major,Network Congestion,"Temporary issue detected, monitoring recommended."
+ALM_077,TWR_1088,EQP_235,2026-02-06 12:34:00,Major,Power Fluctuation,Potential outage risk identified.
+ALM_078,TWR_1008,EQP_476,2026-02-06 12:36:00,Minor,Hardware Failure,Immediate inspection required to prevent service disruption.
+ALM_079,TWR_1042,EQP_403,2026-02-06 12:38:00,Critical,Hardware Failure,Performance degradation observed in network segment.
+ALM_080,TWR_1097,EQP_368,2026-02-06 12:40:00,Minor,Hardware Failure,Potential outage risk identified.
+ALM_081,TWR_1059,EQP_341,2026-02-06 12:42:00,Major,Hardware Failure,Requires maintenance intervention.
+ALM_082,TWR_1043,EQP_104,2026-02-06 12:44:00,Major,Power Fluctuation,Potential outage risk identified.
+ALM_083,TWR_1063,EQP_219,2026-02-06 12:46:00,Major,Hardware Failure,Requires maintenance intervention.
+ALM_084,TWR_1000,EQP_194,2026-02-06 12:48:00,Major,Overheating,"Temporary issue detected, monitoring recommended."
+ALM_085,TWR_1038,EQP_410,2026-02-06 12:50:00,Critical,Hardware Failure,Potential outage risk identified.
+ALM_086,TWR_1053,EQP_315,2026-02-06 12:52:00,Critical,Power Fluctuation,Performance degradation observed in network segment.
+ALM_087,TWR_1067,EQP_326,2026-02-06 12:54:00,Critical,Connection Timeout,Potential outage risk identified.
+ALM_088,TWR_1078,EQP_302,2026-02-06 12:56:00,Minor,Connection Timeout,"Temporary issue detected, monitoring recommended."
+ALM_089,TWR_1078,EQP_247,2026-02-06 12:58:00,Major,Network Congestion,Potential outage risk identified.
+ALM_090,TWR_1065,EQP_288,2026-02-06 13:00:00,Major,Signal Drop,System auto-recovery initiated.
+ALM_091,TWR_1068,EQP_327,2026-02-06 13:02:00,Major,Connection Timeout,"Temporary issue detected, monitoring recommended."
+ALM_092,TWR_1032,EQP_322,2026-02-06 13:04:00,Critical,Hardware Failure,Requires maintenance intervention.
+ALM_093,TWR_1084,EQP_411,2026-02-06 13:06:00,Critical,Network Congestion,System auto-recovery initiated.
+ALM_094,TWR_1020,EQP_100,2026-02-06 13:08:00,Minor,Overheating,Potential outage risk identified.
+ALM_095,TWR_1044,EQP_326,2026-02-06 13:10:00,Critical,Network Congestion,Immediate inspection required to prevent service disruption.
+ALM_096,TWR_1100,EQP_429,2026-02-06 13:12:00,Major,Overheating,Immediate inspection required to prevent service disruption.
+ALM_097,TWR_1022,EQP_277,2026-02-06 13:14:00,Critical,Network Congestion,Immediate inspection required to prevent service disruption.
+ALM_098,TWR_1039,EQP_195,2026-02-06 13:16:00,Critical,Power Fluctuation,Potential outage risk identified.
+ALM_099,TWR_1045,EQP_241,2026-02-06 13:18:00,Major,Hardware Failure,System auto-recovery initiated.
+ALM_100,TWR_1040,EQP_317,2026-02-06 13:20:00,Critical,Connection Timeout,Performance degradation observed in network segment.
